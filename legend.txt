@@ -1,0 +1,21 @@
+ 0 = empty
+ 1 = wall
+ 2 = start
+ 3 = end
+ 11 = north
+ 12 = south
+ 14 = west
+ 15 = north-west
+ 16 = south-west
+ 18 = east
+ 19 = north-east
+ 20 = south-east
+
+ 50 - 100 = agents
+
+ 176 = ░
+ 219 = █
+
+ maze input:
+ Y, X size
+ Y x X matrix
